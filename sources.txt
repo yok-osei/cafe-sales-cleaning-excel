@@ -1,1 +1,10 @@
-Data sources
+Dataset:    Cafe Sales - Dirty Data for Cleaning Training
+Author:     (name shown on the Kaggle page)
+Link:       https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
+Licence:    CC BY-SA 4.0
+File:       data/raw/dirty_cafe_sales.csv
+Downloaded: 23 Nov 2026
+Notes:      Made-up data, built for cleaning practice. Raw file is never edited,
+            all cleaning happens on copies in the working folder.
+
+
