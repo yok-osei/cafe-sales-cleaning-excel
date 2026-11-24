@@ -11,13 +11,13 @@ and documents each change.
 
 | Column | Should hold | Problems found |
 |---|---|---|
-| Transaction ID | Unique code | ... No Missing Values|
-| Item | Menu item name | ... ERROR, ... UNKNOWN, ... blank |
-| Quantity | Whole number | ... |
-| Price Per Unit | Number | ... |
-| Total Spent | Quantity × Price | ... |
-| Payment Method | Cash / Credit Card / Digital Wallet | ... |
-| Location | In-store / Takeaway | ... |
-| Transaction Date | Real date | ... |
+| Transaction ID | Unique code | ... None Found|
+| Item | Menu item name | 292 ERROR, 344 UNKNOWN, 333 blank |
+| Quantity | Whole number | 170 ERROR, 171 UNKNOWN, 138 blank |
+| Price Per Unit | Number | 190 ERROR, 164 UNKNOWN, 179 blank |
+| Total Spent | Quantity × Price | 164 ERROR, 165 UNKNOWN, 173 blank |
+| Payment Method | Cash / Credit Card / Digital Wallet | 306 ERROR, 293 UNKNOWN, 2579 blank |
+| Location | In-store / Takeaway | 358 ERROR, 338 UNKNOWN, 3265 blank |
+| Transaction Date | Real date | 142 ERROR, 159 UNKNOWN, 159 blank |
 
 Data: see sources.txt. Status: in progress.
