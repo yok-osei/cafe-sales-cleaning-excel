@@ -1,6 +1,6 @@
 # C1 project
 Project C1: cleaning Ghana macro data in Excel
-# Cafe Sales Cleaning (main version)
+# Cafe Sales: Cleaning a Dirty Sales File
 
 A cafe's sales export (about 10,000 transactions) is full of errors: ERROR and
 UNKNOWN typed into number and date columns, blank cells, and numbers stored as text.
@@ -23,3 +23,4 @@ and documents each change.
 Data: see sources.txt. Status: in progress.
 
  Progress: see issue #1
+
