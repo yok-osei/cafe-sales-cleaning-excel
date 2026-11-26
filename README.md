@@ -21,3 +21,5 @@ and documents each change.
 | Transaction Date | Real date | 142 ERROR, 159 UNKNOWN, 159 blank |
 
 Data: see sources.txt. Status: in progress.
+
+ Progress: see issue #1
